@@ -25,11 +25,12 @@ Objetivos específicos: • Evaluar todo lo referente a la materia de ondas sinu
 
 2.- Marco Teórico
 
-![image](https://user-images.githubusercontent.com/117742027/211171854-84a6956d-6362-47f3-8918-a80db2fc4578.png)
 
 ![image](https://user-images.githubusercontent.com/117742027/211172228-e31bf022-fd0c-4521-a1cf-d94f23529fa9.png)
 
 ![image](https://user-images.githubusercontent.com/117742027/211172243-eb436eb2-10c3-48fa-82f2-f5f294caa860.png)
+
+![image](https://user-images.githubusercontent.com/117742027/211171854-84a6956d-6362-47f3-8918-a80db2fc4578.png)
 
 ![image](https://user-images.githubusercontent.com/117742027/211172267-71508e7c-11c2-4e37-a73b-94f19c555c46.png)
 
